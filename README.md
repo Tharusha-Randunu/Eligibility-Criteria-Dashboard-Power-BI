@@ -16,7 +16,7 @@ The **Eligibility Criteria Dashboard** is an interactive Power BI dashboard desi
 - **DAX (Data Analysis Expressions)** – Calculated measures and KPIs  
 
 ## 📂 Dataset  
-- **Source:** [Your Data Source]  
+- **Source:**  
 - **Columns include:** `Applicant ID`, `Age`, `Education`, `Experience`, `Income`, `Eligibility Status`, etc.  
 
 ## 🔧 Installation & Usage  
